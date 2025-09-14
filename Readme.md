@@ -11,7 +11,7 @@ function human(){
 ##### Arrow function
 
 ```javascript
-const human () => {
-    .....
+const human = () => {
+    ......
 }
 ```
